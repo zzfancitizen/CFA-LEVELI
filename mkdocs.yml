@@ -10,12 +10,16 @@ theme:
     text: Roboto
   palette: 
     - scheme: default
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-    - scheme: slate 
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - navigation.tabs
