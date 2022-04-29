@@ -6,6 +6,7 @@ theme:
     repo: fontawesome/brands/git
   name: material
   language: en
+  custom_dir: overrides
   font:
     text: Roboto
   palette: 
@@ -99,7 +100,9 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde  
 
-
+nav:
+  - Test page: test.md
+  - Main page: index.md
 
 extra_javascript:
   - javascripts/mathjax.js
