@@ -101,8 +101,9 @@ markdown_extensions:
   - pymdownx.tilde  
 
 nav:
-  - Test page: test.md
   - Main page: index.md
+  - Portfolio Management:
+    - Overview: portfolio/overview.md
 
 extra_javascript:
   - javascripts/mathjax.js
