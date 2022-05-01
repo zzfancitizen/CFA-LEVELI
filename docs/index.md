@@ -1,3 +1,3 @@
-# Knowledge WIKI
+# 一些乱七八糟值得记录的东西
 
-Helper page for all knowledges.
+- [网易狼人杀高级题库](langrensha.md)

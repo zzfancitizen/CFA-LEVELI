@@ -1,11 +1,11 @@
-site_name: CFA Level I
+site_name: 杂
 
 theme:
   icon:
     logo: material/library-shelves
     repo: fontawesome/brands/git
   name: material
-  language: en
+  language: zh
   custom_dir: overrides
   font:
     text: Roboto
@@ -68,9 +68,6 @@ extra:
           Thanks for your feedback! Help us improve this page by
           using our <a href="..." target=_blank>feedback form</a>.
 
-repo_name: zzfancitizen/CFA-LEVELI
-repo_url: https://github.com/zzfancitizen/CFA-LEVELI
-
 markdown_extensions:
   - abbr
   - admonition
@@ -118,9 +115,8 @@ markdown_extensions:
   - pymdownx.tilde  
 
 nav:
-  - Main page: index.md
-  - Portfolio Management:
-    - Overview: portfolio/overview.md
+  - 主页: index.md
+  - 狼人杀高阶版（题库）: langrensha.md 
 
 extra_javascript:
   - javascripts/mathjax.js
